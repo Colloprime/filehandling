@@ -1,0 +1,6 @@
+This is the first line.
+Second line with a number: 42
+Third line with a float: 3.14
+Fourth line appended.
+Fifth line appended with a value: 3.67
+Sixth line appended.
